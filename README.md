@@ -16,10 +16,10 @@ Naija Meals is a simple Flutter app that allows users to browse, view, and filte
 
 ## Screenshots
 
-![Meal Categories Screen](lib/assets/screenshots/categories_screen.jpg)
-![Meals Details Screen](lib\assets\screenshots\meal_details.jpg)
-![Favourite Meals Screen](lib\assets\screenshots\favourite_meals.jpg)
-![Filter Screen](lib\assets\screenshots\filter_screen.jpg)
+![Meal Categories Screen](lib/assets/images/screenshots/categories_screen.jpg)
+![Meals Details Screen](lib/assets/images/screenshots/meal_details.jpg)
+![Favourite Meals Screen](lib/assets/images/screenshots/favourite_meals.jpg)
+![Filter Screen](lib/assets/images/screenshots/filter_screen.jpg)
 
 
 ## Folder Structure
